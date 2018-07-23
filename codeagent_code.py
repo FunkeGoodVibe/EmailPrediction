@@ -22,7 +22,7 @@ for filename in my_text_emails:
 
     # Split content into words
     splitcontent = content.split()
-
+  
     # Join  content back together with a single space between words
     joinedcontent = ""
     for word in splitcontent:
