@@ -16,7 +16,8 @@ For each email, output:
 	+ the word count of that email
 	+ the Primary Date field (1)
 
-For each email, work out whether it contains
+For each email, work out whether it contains:
+
 	+ phone numbers (2)
 	+ more that one email in a thread
 	+ URL’s
