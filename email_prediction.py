@@ -8,7 +8,7 @@ from os.path import isfile, join
 my_text_emails = [f for f in listdir(main_directory) if isfile(join(main_directory, f))]
 my_text_emails
 
-dodgy_phrases = ['not to be discussed', 'unfortunately']
+dodgy_phrases = ['not to be discussed', 'unfortunately', 'secretly']
 
 for filename in my_text_emails:
     # Read content from file
